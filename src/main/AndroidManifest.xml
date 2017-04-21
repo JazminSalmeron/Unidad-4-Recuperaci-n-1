@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="utng.edu.mx.wsasentamiento">
+    package="utng.edu.mx.wscomputadora">
 
     <application
         android:allowBackup="true"
@@ -15,16 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListAsentamientos"
-            android:label="List Asentamientos"></activity>
+
+
+        <activity android:name=".ListComputadoras"
+            android:label="List Computadoras"></activity>
     </application>
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 </manifest>
-
-
-
-
-
 
 
 

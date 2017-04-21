@@ -1,17 +1,7 @@
 <resources>
-    <string name="app_name">WSAsentamiento</string>
+    <string name="app_name">WSComputadora</string>
 
-
-
-
-<string name="codigo_postal">codigo Postal</string>
-<string name="consecutivo_cp">consecutivo Cp</string>
-<string name="cve_estado">cve Estado</string>
-<string name="asentamiento">Asentamiento</string>
-    <string name="activo">Activo</string>
-    <string name="municipio">Municipio</string>
-    <string name="tipo_asentamiento">tipo Asentamiento</string>
-    <string name="ciudad_asentamiento">ciudad Asentamiento</string>
+<string name="modelo">Modelo</string>
 <string name="save">save</string>
 <string name="list">list</string>
 <string name="modificar">modificar</string>
@@ -19,4 +9,4 @@
 <string name="attion_settings">action_settings</string>
 <string name="regresar">regresar</string>
 
-    </resources>
+</resources>
